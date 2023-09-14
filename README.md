@@ -50,7 +50,7 @@ class Counter extends React.Component {
 ```
 
 ## 5. State and State Hook (useState)
-
+Essentially it's a place in code that allows you to tap in to a module to either provide different behavior or to react when something happens.
 State represents the internal data of a component. The `useState` hook is used to add state management to functional components. It returns the current state value and a function to update it.
 
 ### Example:
